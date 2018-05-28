@@ -1,4 +1,4 @@
 # Breakout
 Implementing breakout/brickbreaker to learn Javascript
 
-![breakout](https://user-images.githubusercontent.com/21209853/40626127-7873a56e-62ae-11e8-80be-b62418a50fda.png)
+![imageedit_2_7734439447](https://user-images.githubusercontent.com/21209853/40626214-ee31fe90-62ae-11e8-9ee4-6cc95cca5624.png)
